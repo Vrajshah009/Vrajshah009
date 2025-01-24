@@ -2,10 +2,6 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://github.com/bhartiyaanshul/">Vraj shah</a></b>
-        </samp>
-        <br>
-        <br>
-        <samp>
                
         </samp>
 </h3>
