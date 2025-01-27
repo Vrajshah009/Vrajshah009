@@ -1,17 +1,16 @@
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/bhartiyaanshul/">Vraj shah</a></b>
-                 </samp>
+                <b><a target="_blank" href=https://github.com/Vrajshah009/>Vraj Shah</a></b>
+        </samp>
         <br>
         <br>
         <samp>
                 「 I'm a computer science student from <b>Ahmedabad</b> 」
                 <br>
-                「  I am thrived to take up new task and give it my full potential</b> 」
+                「 i am passionate about takeing up new projects and always learning something new and innovative </b> 」
                 <br>
                 <br>
-               
         </samp>
 </h3>
 <br>
@@ -42,10 +41,10 @@
 <samp> Reach out to me on 📫 </samp>
   
 <p>
-  <a target="_blank"href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href=""><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/anshulbhartiya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/Bhartiyaanshul"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:bhartiyaanshul@gmail.com?subject=Hello%20Vraj,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/im.anshull/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -56,3 +55,4 @@
 </p>
 
 ###
+
