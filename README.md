@@ -8,7 +8,7 @@
         <samp>
                 「 I'm a computer science student from <b>Ahmedabad</b> 」
                 <br>
-                「 i am passionate about taking up new projects and always learning something new and innovative </b> 」
+                「 I'm passionate about taking up new projects and always learning something new and innovative </b> 」
                 <br>
                 <br>
         </samp>
