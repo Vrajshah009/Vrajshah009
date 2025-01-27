@@ -2,6 +2,15 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://github.com/bhartiyaanshul/">Vraj shah</a></b>
+                 </samp>
+        <br>
+        <br>
+        <samp>
+                「 I'm a computer science student from <b>Ahmedabad</b> 」
+                <br>
+                「  I am thrived to take up new task and give it my full potential</b> 」
+                <br>
+                <br>
                
         </samp>
 </h3>
