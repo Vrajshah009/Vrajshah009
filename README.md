@@ -1,59 +1,74 @@
-<!-- Title -->
-<h3 align="center">
-    <samp>
-        &gt; Hey There!, I am
-        <b><a target="_blank" href="https://github.com/Vrajshah009">Vraj Shah</a></b>
-    </samp>
-    <br><br>
-    <samp>
-        「 I'm a Computer Science student from <b>Ahmedabad</b> 🇮🇳 」
-        <br>
-        「 Passionate about building projects, learning new technologies, and constantly improving 」
-    </samp>
-</h3>
+<!-- HEADER -->
 
-<br>
+<h1 align="center">Hi 👋, I'm Vraj Shah</h1>
+<h3 align="center">Computer Science Student | Developer | Tech Enthusiast</h3>
 
-<!-- Tech Stack -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-</div>
+<p align="center">
+📍 Ahmedabad, India <br>
+💻 Passionate about building projects and learning new technologies <br>
+🚀 Always exploring, always improving
+</p>
 
-<br>
+---
 
-<!-- Contact -->
-<div align="center">
-<samp> Reach out to me 📫 </samp>
+## 🚀 Tech Stack
 
-<p>
-<a target="_blank" href="https://www.linkedin.com/in/vraj-shah-57b2402a3/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vrajshah009&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrajshah009&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrajshah009&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vraj-shah-57b2402a3/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:vrajshah015@gmail.com">
-<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://www.instagram.com/vraj.notfound/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
 </a>
+
 </p>
 
-</div>
+---
 
-<br>
+## 🐍 Contribution Snake
 
-<!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vrajshah009/Vrajshah009/output/github-snake.svg" alt="Snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vrajshah009/Vrajshah009/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vrajshah009/Vrajshah009/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Vrajshah009/Vrajshah009/output/github-snake.svg">
+</picture>
 </p>
